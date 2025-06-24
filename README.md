@@ -1,3 +1,4 @@
+![Banner](https://i.ibb.co/jv1xLQ1q/4c443992f6106654fc270b3ca708d29e.jpg)
 # 💫 About Me:
 Hi! I'm Md Ammar Shahab, a passionate and self-motivated web developer from Bangladesh 🇧🇩. I love building intuitive, responsive, and user-friendly web applications that solve real-world problems.<br><br>Currently focused on mastering the MERN Stack (MongoDB, Express.js, React, Node.js), I'm constantly learning and improving my skills through personal projects and hands-on coding.<br><br>🚀 My Tech Stack:<br>Frontend: HTML, CSS, Tailwind CSS, JavaScript, React.js<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Tools: Git & GitHub, Firebase, Vite, Postman<br><br>💡 What I Love:<br>Turning ideas into interactive web apps<br><br>Collaborating with other developers<br><br>Learning new technologies
 
