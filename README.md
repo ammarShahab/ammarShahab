@@ -1,7 +1,7 @@
 
 ![Banner](https://i.ibb.co/jv1xLQ1q/4c443992f6106654fc270b3ca708d29e.jpg)
 # 💫 About Me:
-# Hi! I'm Md Ammar Shahab, <br> 
+# Hi! I'm Md Ammar Shahab <br/> 
 <br/> A passionate and self-motivated web developer from Bangladesh. I love building intuitive, responsive, and user-friendly web applications that solve real-world problems.<br><br>Currently focused on mastering the MERN Stack (MongoDB, Express.js, React, Node.js), I'm constantly learning and improving my skills through personal projects and hands-on coding.<br><br>
 
 <h3><strong>💡 What I Love:</strong></h3>
@@ -35,10 +35,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ammarShahab&theme=default&no-frame=false&no-bg=true&margin-w=4)
 <br/> <br/>
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/> <br/>
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ammarShahab&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
