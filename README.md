@@ -4,8 +4,8 @@
 Full Stack MERN Developer 👋 | Skilled in JavaScript, React.js, Next.js, TypeScript (hands-on), Node.js, Express.js, MongoDB & Firebase | Building Responsive, Scalable Web Apps with Clean UI & Optimized Performance 🚀<br>
 
 ## Talking about Personal Stuff:
-🛠    I’m currently working with JS, TS, React, Next, Node, Express,  Convex.
-🚀   I’m currently exploring PostgreSQL.                                                                                                                                                                                         
+- 🛠  I’m currently working with JS, TS, React, Next, Node, Express,  Convex.
+- 🚀 I’m currently exploring PostgreSQL.                                                                                                                                                                                         
                                                                                                                                                                                                                              
 <br>💡 What I Love
 - 🚀 Turning ideas into interactive web apps
