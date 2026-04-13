@@ -13,8 +13,8 @@
 <br>
 
 ### 📚 Currently Exploring:
-- 🧠 **Next.js** – building full-stack apps with server-side rendering
-- 🎨 **Framer Motion** – adding smooth animations to React apps
+- 🧠 **PostgreSQL** – focusing on relational data modeling and scalable database design.
+
 
 <br>
 
