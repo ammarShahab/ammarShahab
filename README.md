@@ -1,7 +1,12 @@
 
 ![Banner](https://i.ibb.co/jv1xLQ1q/4c443992f6106654fc270b3ca708d29e.jpg)
 # 💫 About Me:
-Full Stack MERN Developer 👋 | Skilled in JavaScript, React.js, Next.js, TypeScript (hands-on), Node.js, Express.js, MongoDB & Firebase | Building Responsive, Scalable Web Apps with Clean UI & Optimized Performance 🚀<br><br>
+Full Stack MERN Developer 👋 | Skilled in JavaScript, React.js, Next.js, TypeScript (hands-on), Node.js, Express.js, MongoDB & Firebase | Building Responsive, Scalable Web Apps with Clean UI & Optimized Performance 🚀<br>
+
+## Talking about Personal Stuff:
+🛠    I’m currently working with JS, TS, React, Next, Node, Express,  Convex.
+🚀   I’m currently exploring PostgreSQL.                                                                                                                                                                                         
+                                                                                                                                                                                                                             
 <br>💡 What I Love
 - 🚀 Turning ideas into interactive web apps
 - 🤝 Collaborating with other developers
